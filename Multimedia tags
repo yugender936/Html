@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video src="https://cdn.pixabay.com/video/2024/06/06/215475_large.mp4" poster="https://media.istockphoto.com/id/1358014313/photo/group-of-elementary-students-having-computer-class-with-their-teacher-in-the-classroom.jpg?s=612x612&w=0&k=20&c=3xsykmHXFa9ejL_sP2Xxiow7zdtmKvg15UxXFfgR98Q=" height="600" width="800" controls>Education</video>
+    <audio src="./brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416.mp3" controls>sound</audio><br>
+    <a href="https://www.google.co.in/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJpwUvZMFKp_kXyJA2yd8zulrzNfK4ZIOgQ&s" alt="" height="130" width="200" ></a>
+    <a href="https://www.youtube.com/" target="_blank"><img src="https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.jpg" alt="" height="130" width="200" ></a>
+    <a href="https://www.facebook.com/" target="_blank"><img src="https://cdn.pixabay.com/photo/2021/11/11/12/41/facebook-6786210_1280.png" alt="" height="130" width="200" ></a>
+</body>
+</html>
