@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label><b><u><i>Random-Writing</i></u></b></label>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi nulla obcaecati enim quis optio adipisci maxime est deleniti dolores fugiat nesciunt porro culpa quidem pariatur, facere ex cumque. Atque!
+    Aspernatur vitae nobis similique velit earum, explicabo saepe distinctio nesciunt ex voluptatem, accusantium qui aliquam laboriosam minima necessitatibus? Maxime ut sint perspiciatis rerum culpa perferendis expedita iste aliquid velit dolorum!</p>
+    <label>2 <sup>n</sup></label><br><br>
+    <label>water &nbsp;&nbsp; : &nbsp; &nbsp; &nbsp; H <sub>2</sub>O</label>
+</body>
+</html>
