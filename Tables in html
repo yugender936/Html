@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://www.google.co.in/" target="_blank"><img src="https://media.wired.com/photos/5926ffe47034dc5f91bed4e8/master/pass/google-logo.jpg" alt="" height="100" width="200" ></a>
+    <table  border="2px" width="300px" height="300px" cellpadding="25px" cellspacing="8px">
+        <tr>
+            <th colspan="5">Student Details</th>
+        </tr>
+        <tr>
+            <td><i><b>Education</b></i></td>
+            <td><i><b>Location</b></i></td>
+            <td><i><b>Percentage</b></i></td>
+            <td><i><b>Grade</b></i></td>
+            <td rowspan="4">85.6%</td>
+        </tr>
+        <tr>
+            <td><i><b>X</b></i></td>
+            <td>Jammikunta</td>
+            <td>88</td>
+            <td>8.8</td>
+            
+        </tr>
+        <tr>
+            <td><i><b>Inter</b></i></td>
+            <td>Warangal</td>
+            <td>93.8</td>
+            <td>9.3</td>
+           
+        </tr>
+        <tr>
+            <td><i><b>B.Tech</b></i></td>
+            <td>Hyderabad</td>
+            <td>75</td>
+            <td>7.64</td>
+            
+        </tr>
+        <tr>
+            <td colspan="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.56</td>
+        </tr>
+    </table>
+</body>
+</html>
