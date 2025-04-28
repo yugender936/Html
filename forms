@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Sig-In</legend>
+        <form action="./StudetTable.html"> 
+          <label>Enter the User Name : </label>  <input type="text" placeholder="Fullname" required><br><br>
+          <label >Enter the Mobile Number : </label> <input type="tel" placeholder="Mobile Number" required><br><br>
+          <label>Enter the Mail Id : </label> <input type="email" placeholder=" eg : yuvi@gmail.com"><br><br>
+          <label>Eter the D.O.B : </label><input type="date"><br><br>
+          <label>Select the Gender : </label> <input type="radio" name="gender">Male &nbsp;<input type="radio" name="gender">Female <br><br>
+          <label>Select Laguages you Know : </label><input type="checkbox" name="lan">ENglish &nbsp;<input type="checkbox" name="lan">Hindhi &nbsp; <input type="checkbox" name="lan">Telugu &nbsp; <input type="checkbox" name="lan">Tamil <br><br>
+          <label >Enter the password :</label> <input type="password" placeholder="password" required><br><br>
+          <input type="reset">
+          <input type="submit">
+        </form>
+    </fieldset>
+</body>
+</html>
